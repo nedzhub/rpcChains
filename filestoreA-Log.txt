@@ -1,0 +1,10 @@
+filestoreA {"filestoreA":1}
+Initialization Complete
+filestoreA {"filestoreA":2}
+Making connection to frontend
+filestoreA {"filestoreA":3, "auth":3, "metadata":15, "frontend":14, "filestoreB":2, "client":3}
+Store request from AuthService
+filestoreA {"filestoreA":4, "auth":3, "metadata":17, "frontend":14, "filestoreB":2, "client":3}
+Retrieve request from MetadataService
+filestoreA {"filestoreA":5, "auth":3, "metadata":21, "frontend":14, "filestoreB":2, "client":3}
+Retrieve request from MetadataService

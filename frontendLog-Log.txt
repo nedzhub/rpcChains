@@ -1,0 +1,10 @@
+frontend {"frontend":1}
+Initialization Complete
+frontend {"frontend":2, "client":2}
+Retrieve request from Client
+frontend {"frontend":3, "client":2}
+Retrieve request to MetadataService
+frontend {"frontend":4, "client":3}
+Retrieve request from Client
+frontend {"frontend":5, "client":3}
+Retrieve request to MetadataService

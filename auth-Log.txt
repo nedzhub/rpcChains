@@ -1,0 +1,6 @@
+auth {"auth":1}
+Initialization Complete
+auth {"auth":2, "metadata":15, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request from MetadataService
+auth {"auth":3, "metadata":15, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request to FilestoreServiceA

@@ -1,0 +1,42 @@
+metadata {"metadata":1}
+Initialization Complete
+metadata {"metadata":2}
+Making connection to frontend
+metadata {"metadata":3, "frontend":6, "filestoreA":2, "filestoreB":2, "client":2}
+Store request from FrontEndMapService
+metadata {"metadata":4, "frontend":6, "filestoreA":2, "filestoreB":2, "client":2}
+Store request to FilestoreServiceB
+metadata {"metadata":5, "frontend":8, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request from FrontEndMapService
+metadata {"metadata":6, "frontend":8, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request to FilestoreServiceB
+metadata {"metadata":7, "frontend":10, "filestoreA":2, "filestoreB":2, "client":3}
+List request from FrontEndMapService
+metadata {"metadata":8, "frontend":10, "filestoreA":2, "filestoreB":2, "client":3}
+List request to FilestoreServiceA
+metadata {"metadata":9, "frontend":10, "filestoreA":2, "filestoreB":2, "client":3}
+List request to FilestoreServiceB
+metadata {"metadata":10, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request from FrontEndMapService
+metadata {"metadata":11, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request to FilestoreServiceB
+metadata {"metadata":12, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request from FrontEndMapService
+metadata {"metadata":13, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request to FilestoreServiceB
+metadata {"metadata":14, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request from FrontEndMapService
+metadata {"metadata":15, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Store request to AuthService
+metadata {"metadata":16, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request from FrontEndMapService
+metadata {"metadata":17, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request to FilestoreServiceA
+metadata {"metadata":18, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request from FrontEndMapService
+metadata {"metadata":19, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request to FilestoreServiceB
+metadata {"metadata":20, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request from FrontEndMapService
+metadata {"metadata":21, "frontend":14, "filestoreA":2, "filestoreB":2, "client":3}
+Retrieve request to FilestoreServiceA

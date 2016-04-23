@@ -5,7 +5,7 @@
 // - [file-store-B ip:port] : the ip and TCP port on which file storage server B is listening for metadata server connections.
 // - r : replication factor
 //
-package main
+package main  
 
 import (
 	"./rpcc"

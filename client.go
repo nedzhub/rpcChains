@@ -3,7 +3,7 @@
 // - [client ip:port] : the ip and TCP port on which this client is listening for file server connections.
 // - [front-end ip:port] : the ip and TCP port on which front end is listening for client connections.
 //
-package main
+package main 
 
 import (
 	"./rpcc"

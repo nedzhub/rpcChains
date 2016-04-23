@@ -6,7 +6,7 @@
 // - [front-end-filestoreA ip:port] : the ip and TCP port on which this front end is listening for filestoreA connections.
 // - [front-end-filestoreB ip:port] : the ip and TCP port on which this front end is listening for filestoreB connections.
 //
-package main
+package main 
 
 import (
 	"./rpcc"
